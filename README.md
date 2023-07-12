@@ -59,7 +59,7 @@ https://qiita.com/Imael
 https://github.com/kabikira/OAuthQiita  
 
 ### 設計MVPのQiita記事検索サンプルアプリ
-MVPを使ったQiitaの検索サンプルアプリ
+https://github.com/kabikira/QiitaExplorer
 
 
 
