@@ -53,7 +53,12 @@ AppStore
 https://apps.apple.com/us/app/cointossanddice/id6444712758  
 
 ### Qiitaに記事投稿しています。
-https://qiita.com/Imael
+https://qiita.com/Imael  
+
+### QiitaのOAuth認可を使ったサンプルアプリ  
+https://github.com/kabikira/OAuthQiita  
+
+
 
 
 
