@@ -52,9 +52,11 @@ https://github.com/kabikira/CoinAndDice
 AppStore  
 https://apps.apple.com/us/app/cointossanddice/id6444712758  
 
+## アウトプット
 ### Qiitaに記事投稿しています。
 https://qiita.com/Imael  
 
+## サンプルアプリ　　
 ### QiitaのOAuth認可を使ったサンプルアプリ  
 https://github.com/kabikira/OAuthQiita  
 
