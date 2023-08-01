@@ -64,7 +64,7 @@ https://github.com/kabikira/OAuthQiita
 https://github.com/kabikira/QiitaExplorer
 
 ## 開発中のアプリ 
-Firebaseのログイン､データベースを使用したTodoアプリ  
+### Firebaseのログイン､データベースを使用したTodoアプリ  
 https://github.com/kabikira/TodoListApp 
 
 
