@@ -1,15 +1,6 @@
 ## Hi there 👋
 
 ## 作成したiOSアプリです
-### Firebaseのログイン､データベースを使用したTodoアプリ  
-UIKit  
-設計　MVC  
-画面遷移　Router  
-外部ライブラリ CocoaPods
-Firebase､IQKeyboardManagerSwift､R.swift,LicensePlist  
-
-https://github.com/kabikira/TodoListApp 
-
 
 ### Wikiサプライズ　
 WikiAPIから記事タイトルをランダムに取得してウィキペディアを読めるアプリです。  
