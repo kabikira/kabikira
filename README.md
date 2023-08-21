@@ -9,7 +9,7 @@ https://github.com/kabikira/OAuthQiita
 https://github.com/kabikira/QiitaExplorer
 
 ### 設計MVVM、RxSwiftのQiita記事検索サンプルアプリ　　
-https://github.com/kabikira/QiitaMVVM　　
+https://github.com/kabikira/QiitaMVVM　
 
 ## アウトプット
 ### Qiitaに記事投稿しています。
