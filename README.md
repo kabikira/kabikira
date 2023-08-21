@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+
+## サンプルアプリ　　
+### QiitaのOAuth認可を使ったサンプルアプリ  
+https://github.com/kabikira/OAuthQiita  
+
+### 設計MVPのQiita記事検索サンプルアプリ
+https://github.com/kabikira/QiitaExplorer
+
+### 設計MVVM、RxSwiftのQiita記事検索サンプルアプリ　　
+https://github.com/kabikira/QiitaMVVM　　
+
+## アウトプット
+### Qiitaに記事投稿しています。
+https://qiita.com/Imael  
+
 ## 作成したiOSアプリです
 
 ### Wikiサプライズ　
@@ -41,16 +56,8 @@ SwiftUI
 https://github.com/kabikira/CoinAndDice  
   
 
-## アウトプット
-### Qiitaに記事投稿しています。
-https://qiita.com/Imael  
 
-## サンプルアプリ　　
-### QiitaのOAuth認可を使ったサンプルアプリ  
-https://github.com/kabikira/OAuthQiita  
 
-### 設計MVPのQiita記事検索サンプルアプリ
-https://github.com/kabikira/QiitaExplorer
 
 
 
