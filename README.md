@@ -1,4 +1,8 @@
 ## Hi there 👋
+<p align="center"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabikira&show_icons=true&locale=en&layout=compact" alt=“kabikira” />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kabikira&show_icons=true&locale=en" alt="kabikira" />
+</p>
 
 
 ## サンプルアプリ　　
