@@ -40,7 +40,7 @@
    - [GitHubリポジトリ](https://github.com/kabikira/OAuthQiita)
 
 3. **RxSwift, MVVMを使用したサンプルアプリ**
-   - タグインクリメント検索: [GitHubリポジトリ](https://github.com/kabikira/QiitaMVVM)
+   - Qiitaの記事、タグがインクリメント検索できるサンプルアプリ: [GitHubリポジトリ](https://github.com/kabikira/QiitaMVVM)
 
 4. **MVPを使用したQiita検索サンプルアプリ**
    - [GitHubリポジトリ](https://github.com/kabikira/QiitaExplorer)
