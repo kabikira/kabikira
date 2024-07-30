@@ -9,12 +9,12 @@
 - [App Store公開アプリ一覧](https://apps.apple.com/jp/developer/takumi-imai/id1656337597)
 
 1. **Firebaseを使用したTodoアプリ**
-   - [GitHubリポジトリ](https://github.com/kabikira/TodoListApp/blob/develop/README.md)
+   - [GitHubリポジトリ](https://github.com/kabikira/TodoListApp/blob/develop)
    - **技術スタック**: MVC, Router, CocoaPods, Firebase, IQKeyboardManagerSwift, R.swift, LicensePlist, RxSwift, MVVM
    - **説明**: Firebaseを使用したログイン機能とデータベース連携、ログイン画面のみRxSwiftとMVVMパターンの採用。日本語と英語の多言語に対応。
 
 2. **ウィキペディアAPIを使用したランダム記事取得アプリ**
-   - [GitHubリポジトリ](https://github.com/kabikira/TodoListApp/blob/develop/README.md)
+   - [GitHubリポジトリ](https://github.com/kabikira/TodoListApp/blob/develop)
    - **技術スタック**: MVC, Router
    - **説明**: ウィキペディアAPIを使用してランダムに記事を取得し、TableViewに表示。
 
