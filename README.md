@@ -14,7 +14,7 @@
    - **説明**: Firebaseを使用したログイン機能とデータベース連携、ログイン画面のみRxSwiftとMVVMパターンの採用。日本語と英語の多言語に対応。
 
 2. **ウィキペディアAPIを使用したランダム記事取得アプリ**
-   - [GitHubリポジトリ](https://github.com/kabikira/TodoListApp/blob/develop)
+   - [GitHubリポジトリ](https://github.com/kabikira/WikiSurprise)
    - **技術スタック**: MVC, Router
    - **説明**: ウィキペディアAPIを使用してランダムに記事を取得し、TableViewに表示。
 
