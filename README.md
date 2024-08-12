@@ -16,7 +16,7 @@
 2. **ウィキペディアAPIを使用したランダム記事取得アプリ**
    - [GitHubリポジトリ](https://github.com/kabikira/WikiSurprise)
    - **技術スタック**: MVC, Router
-   - **説明**: ウィキペディアAPIを使用してランダムに記事を取得し、TableViewに表示。
+   - **説明**: ウィキペディアAPIを使用してランダムに記事を取得し、TableViewに表示。APIに関するテストコード実装｡
 
 3. **音感クイズアプリ**
    - [GitHubリポジトリ](https://github.com/kabikira/SoundQuiz)
