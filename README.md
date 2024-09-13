@@ -38,9 +38,10 @@
    - **技術スタック**:SwiftUI
    - **説明**: シンプルなコイントスとサイコロのアプリ　
 
-### Qiita活動
-- [Qiitaプロフィール](https://qiita.com/Imael)
-- 主に日々の開発で詰まったところなどを中心に記事30件ほど投稿。
+### アウトプット活動
+- [Qiita](https://qiita.com/Imael)
+- [note](https://note.com/imael123/)
+- [Zenn](https://zenn.dev/imael)
 
 ### その他のサンプルアプリ
 1. **フリマアプリ模倣**
